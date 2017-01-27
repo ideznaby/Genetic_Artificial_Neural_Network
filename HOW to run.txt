@@ -1,0 +1,4 @@
+the SGA is the main function and it's working in this way :
+SGA(selection method(@BBTS,@SUS,@RWS),replacement methode(@RandomReplacement,@SimpleReplacement),ShowResults (true or false), max or min, SMArgument)
+for example :
+SGA(@RWS,@SimpleReplacement,true,'min',1,[0.9 0.1])
